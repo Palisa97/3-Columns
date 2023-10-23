@@ -1,0 +1,32 @@
+.main{
+    height: 100vp;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box1{
+    background-color: rgb(216, 157, 47);
+    height: 400px;
+    width: 450px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.box2{
+    background-color: rgb(65, 200, 218);
+    height: 400px;
+    width: 450px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.box3{
+    background-color:rgb(21, 85, 94) ;
+    height: 400px;
+    width: 450px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+
